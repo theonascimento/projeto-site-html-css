@@ -193,6 +193,31 @@ i.social {
     color: white;
 }
 
+.sec-reserva label {
+    display: block;
+    color: white;
+}
+
+.sec-reserva input{
+    margin-top: 5px;
+    border-radius: 5px;
+    border-color: #012340;
+    width: 35%;
+}
+
+#slcCidade,
+#slcTel {
+    width: 25%;
+}
+
+#slcCEP {
+    width: 15%;
+}
+
+#slcData {
+    width: 11%;
+}
+
 @media screen and (min-width: 1280px) {
     .conteiner {
         width: 1280px;
